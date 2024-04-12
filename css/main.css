@@ -627,7 +627,7 @@ Couples Resort Responsive Build
     background-color: #9a2018;
     width: 370px;
     font-size: 18px;
-    font-style: bold;
+    font-weight: bold;
     text-align: center;
     color: #fff;
     border-radius: 10px;
@@ -669,7 +669,7 @@ Couples Resort Responsive Build
  .price-tag-con p {
     font-size: 14px;
     margin-top: 10px;
-    font-style: bold;
+    font-weight: bold;
  }
  
  #click-here-unforeseen {
